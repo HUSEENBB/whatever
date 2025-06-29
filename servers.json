@@ -1,23 +1,16 @@
 [
-  {
-    "country": "United States",
-    "flagUrl": "https://example.com/flags/usa_flag.png",
-    "ovpn": "https://example.com/ovpn/us.ovpn",
-    "ovpnUserName": "vpn",
-    "ovpnUserPassword": "vpn"
-  },
-  {
-    "country": "Japan",
-    "flagUrl": "https://example.com/flags/japan_flag.png",
-    "ovpn": "https://example.com/ovpn/japan.ovpn",
-    "ovpnUserName": "vpn",
-    "ovpnUserPassword": "vpn"
-  },
-  {
-    "country": "Germany",
-    "flagUrl": "https://example.com/flags/germany_flag.png",
-    "ovpn": "https://example.com/ovpn/germany.ovpn",
-    "ovpnUserName": "vpnuser",
-    "ovpnUserPassword": "vpnpass"
-  }
+
+{
+  "country": "Iraq",
+  "flagUrl": "https://example.com/flags/iraq.png",
+  "type": "v2ray",
+  "protocol": "vmess",
+  "address": "thbt.muntadher.site",
+  "port": 443,
+  "uuid": "1b44716e-fcbc-405c-b837-b11bfd8d2cb4",
+  "path": "/vmess",
+  "tls": true
+}
+
+  
 ]
