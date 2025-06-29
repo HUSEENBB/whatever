@@ -11,6 +11,16 @@
   "path": "/vmess",
   "tls": true
 }
-
+{
+  "country": "zain_free",
+  "flagUrl": "https://github.com/HUSEENBB/31/raw/refs/heads/main/zain_free.png",
+  "type": "v2ray",
+  "protocol": "vmess",
+  "address": "thbt.muntadher.site",
+  "port": 443,
+  "uuid": "1b44716e-fcbc-405c-b837-b11bfd8d2cb4",
+  "path": "/vmess",
+  "tls": true
+}
   
 ]
