@@ -1,0 +1,23 @@
+[
+  {
+    "country": "United States",
+    "flagUrl": "https://example.com/flags/usa_flag.png",
+    "ovpn": "https://example.com/ovpn/us.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  },
+  {
+    "country": "Japan",
+    "flagUrl": "https://example.com/flags/japan_flag.png",
+    "ovpn": "https://example.com/ovpn/japan.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  },
+  {
+    "country": "Germany",
+    "flagUrl": "https://example.com/flags/germany_flag.png",
+    "ovpn": "https://example.com/ovpn/germany.ovpn",
+    "ovpnUserName": "vpnuser",
+    "ovpnUserPassword": "vpnpass"
+  }
+]
