@@ -12,8 +12,17 @@
   "tls": true
 }, 
 
+{
+    "country": "zain_free iq",
+    "flagUrl": "https://github.com/HUSEENBB/31/raw/refs/heads/main/IQ.png",
+    "ovpn": "https://github.com/HUSEENBB/31/raw/refs/heads/main/mاتحاد.ovpn",
+    "ovpnUserName": "",
+    "ovpnUserPassword": ""
+  },
+
+  
   {
-  "country": "zain_free",
+  "country": "zain_free ksa",
   "flagUrl": "https://github.com/HUSEENBB/31/raw/refs/heads/main/zain_free.png",
   "type": "v2ray",
   "protocol": "vmess",
