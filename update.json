@@ -1,5 +1,5 @@
 {
-  "minimumVersionCode": 100,
+  "minimumVersionCode": 1,
   "updateUrl": "https://yourdomain.com/app/latest.apk",
   "message": "هذا التحديث إجباري، الرجاء التحديث للاستمرار باستخدام التطبيق."
 }
