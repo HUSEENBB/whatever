@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 2,
-  "updateUrl": "https://github.com/HUSEENBB/whatever/raw/refs/heads/main/ZoloCheat_1.0.apk",
-  "message": "هذا التحديث إجباري، الرجاء التحديث للاستمرار باستخدام التطبيق."
+  "versionCode": 5,
+  "apkUrl": "https://yourdomain.com/update.apk",
+  "forceUpdate": true
 }
