@@ -1,5 +1,6 @@
 {
-  "versionCode": 5,
-  "apkUrl": "https://yourdomain.com/update.apk",
-  "forceUpdate": true
+  "latest_version_code": 2,
+  "update_message": "تحديث جديد متوفر. يجب تحديث التطبيق للاستمرار.",
+  "update_url": "https://yourdomain.com/app-latest.apk",
+  "force_update": true
 }
