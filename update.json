@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 391,
-  "update_message": "تحديث جديد متوفر. يجب تحديث التطبيق للاستمرار.",
-  "update_url": "https://yourdomain.com/app-latest.apk",
-  "force_update": false
+  "latest_version_code": 40,
+  "update_url": "https://yourdomain.com/app.apk",
+  "force_update": true,
+  "update_message": "يوجد تحديث جديد. يجب تثبيت آخر إصدار للاستمرار في استخدام التطبيق."
 }
