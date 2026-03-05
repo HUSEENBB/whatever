@@ -1,8 +1,44 @@
 {
- "servers":[
-  {
-   "name":"Server 1",
-   "config":"vless://2a5ef6c3-5649-4715-a3c4-%40w3uz2@162.159.153.247:80?encryption=none&flow=none&type=ws&host=ab.eshop2.shop&headerType=none&path=%2F%40w3uz2&security=none#Server1"
-  }
- ]
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "162.159.153.247",
+            "port": 80,
+            "users": [
+              {
+                "id": "2a5ef6c3-5649-4715-a3c4-w3uz2",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/@w3uz2",
+          "headers": {
+            "Host": "ab.eshop2.shop"
+          }
+        }
+      }
+    }
+  ]
 }
