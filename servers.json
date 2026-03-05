@@ -1,43 +1,50 @@
 {
-  "log": {
-    "loglevel": "warning"
-  },
-  "inbounds": [
+  "servers": [
     {
-      "tag": "socks",
-      "port": 10808,
-      "listen": "127.0.0.1",
-      "protocol": "socks",
-      "settings": {
-        "udp": true
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
+      "name": "Server1",
+      "config": {
+        "log": {
+          "loglevel": "warning"
+        },
+        "inbounds": [
           {
-            "address": "162.159.153.247",
-            "port": 80,
-            "users": [
-              {
-                "id": "2a5ef6c3-5649-4715-a3c4-w3uz2",
-                "encryption": "none"
+            "port": 10808,
+            "listen": "127.0.0.1",
+            "protocol": "socks",
+            "settings": {
+              "auth": "noauth",
+              "udp": true
+            }
+          }
+        ],
+        "outbounds": [
+          {
+            "protocol": "vless",
+            "settings": {
+              "vnext": [
+                {
+                  "address": "162.159.153.247",
+                  "port": 80,
+                  "users": [
+                    {
+                      "id": "2a5ef6c3-5649-4715-a3c4-w3uz2",
+                      "encryption": "none"
+                    }
+                  ]
+                }
+              ]
+            },
+            "streamSettings": {
+              "network": "ws",
+              "wsSettings": {
+                "path": "/@w3uz2",
+                "headers": {
+                  "Host": "ab.eshop2.shop"
+                }
               }
-            ]
+            }
           }
         ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/@w3uz2",
-          "headers": {
-            "Host": "ab.eshop2.shop"
-          }
-        }
       }
     }
   ]
