@@ -8,6 +8,10 @@
    "name":"MTN",
    "vless":"vless://app@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&security=tls&host=ab.eshop2.shop&path=%2F%40w3uz2&sni=ab.eshop2.shop#Server2"
   },
+    {
+   "name":"يوتيوب",
+   "vless":"vless://app@youtubedownload.minitool.com:8443?encryption=none&type=ws&security=tls&host=ab.eshop2.shop&path=%2F%40w3uz2&sni=ab.eshop2.shop#Server2"
+  },
   {
    "name":"Social(Snapchat) ",
    "vless":"vless://app@ab.eshop2.shop:443?encryption=none&type=tcp&security=tls&sni=www.snapchat.com#Server3"
