@@ -1,15 +1,15 @@
 {
  "servers":[
   {
-   "name":"Server 1",
+   "name":"Syriatel ",
    "vless":"vless://app@162.159.153.247:80?encryption=none&type=ws&host=ab.eshop2.shop&path=%2F%40w3uz2#Server1"
   },
   {
-   "name":"Server 2",
+   "name":"MTN",
    "vless":"vless://app@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&security=tls&host=ab.eshop2.shop&path=%2F%40w3uz2&sni=ab.eshop2.shop#Server2"
   },
   {
-   "name":"Server 3",
+   "name":"Social(Snapchat) ",
    "vless":"vless://app@ab.eshop2.shop:443?encryption=none&type=tcp&security=tls&sni=www.snapchat.com#Server3"
   }
  ]
