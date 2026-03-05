@@ -2,8 +2,140 @@
   "servers": [
     {
       "name": "Server 1",
-      "config": "dmxlc3M6Ly9hcHBAMTYyLjE1OS4xNTMuMjQ3OjgwP2VuY3J5cHRpb249bm9uZSZmbG93PW5vbmUmdHlwZT13cyZob3N0PWFiLmVzaG9wMi5zaG9wJmhlYWRlclR5cGU9bm9uZSZwYXRoPSUyRiU0MHczdXoyJnNlY3VyaXR5PW5vbmUjJTQwdzN1ejI="
+      "config": {
+        "inbounds": [
+          {
+            "port": 10808,
+            "listen": "127.0.0.1",
+            "protocol": "socks",
+            "settings": {
+              "auth": "noauth",
+              "udp": true
+            }
+          }
+        ],
+        "outbounds": [
+          {
+            "protocol": "vless",
+            "settings": {
+              "vnext": [
+                {
+                  "address": "162.159.153.247",
+                  "port": 80,
+                  "users": [
+                    {
+                      "id": "app",
+                      "encryption": "none"
+                    }
+                  ]
+                }
+              ]
+            },
+            "streamSettings": {
+              "network": "ws",
+              "security": "none",
+              "wsSettings": {
+                "path": "/@w3uz2",
+                "headers": {
+                  "Host": "ab.eshop2.shop"
+                }
+              }
+            }
+          }
+        ]
+      }
     },
 
+    {
+      "name": "Server 2",
+      "config": {
+        "inbounds": [
+          {
+            "port": 10808,
+            "listen": "127.0.0.1",
+            "protocol": "socks",
+            "settings": {
+              "auth": "noauth",
+              "udp": true
+            }
+          }
+        ],
+        "outbounds": [
+          {
+            "protocol": "vless",
+            "settings": {
+              "vnext": [
+                {
+                  "address": "help.twitter.com.cdn.cloudflare.net",
+                  "port": 8443,
+                  "users": [
+                    {
+                      "id": "app",
+                      "encryption": "none"
+                    }
+                  ]
+                }
+              ]
+            },
+            "streamSettings": {
+              "network": "ws",
+              "security": "tls",
+              "tlsSettings": {
+                "serverName": "ab.eshop2.shop"
+              },
+              "wsSettings": {
+                "path": "/@w3uz2",
+                "headers": {
+                  "Host": "ab.eshop2.shop"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "name": "Server 3",
+      "config": {
+        "inbounds": [
+          {
+            "port": 10808,
+            "listen": "127.0.0.1",
+            "protocol": "socks",
+            "settings": {
+              "auth": "noauth",
+              "udp": true
+            }
+          }
+        ],
+        "outbounds": [
+          {
+            "protocol": "vless",
+            "settings": {
+              "vnext": [
+                {
+                  "address": "ab.eshop2.shop",
+                  "port": 443,
+                  "users": [
+                    {
+                      "id": "app",
+                      "encryption": "none"
+                    }
+                  ]
+                }
+              ]
+            },
+            "streamSettings": {
+              "network": "tcp",
+              "security": "tls",
+              "tlsSettings": {
+                "serverName": "www.snapchat.com"
+              }
+            }
+          }
+        ]
+      }
+    }
   ]
-} 
+}
