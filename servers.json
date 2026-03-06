@@ -2,11 +2,19 @@
  "servers":[
   {
    "name":"Syriatel",
-   "vless":"dmxlc3M6Ly9hcHBBMTYyLjE1OS4xNTMuMjQ3OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiNTZXJ2ZXIx"
+   "vless":"dmxlc3M6Ly9hcHBAMTYyLjE1OS4xNTMuMjQ3OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiNTZXJ2ZXIx"
   },
   {
    "name":"MTN",
    "vless":"dmxlc3M6Ly9hcHBAaGVscC50d2l0dGVyLmNvbS5jZG4uY2xvdWRmbGFyZS5uZXQ6ODQ0Mz9lbmNyeXB0aW9uPW5vbmUmdHlwZT13cyZzZWN1cml0eT10bHMmaG9zdD1hYi5lc2hvcDIuc2hvcCZwYXRoPSUyRiU0MHczdXoyJnNuaT1hYi5lc2hvcDIuc2hvcCNTZXJ2ZXIy"
+  },
+  {
+   "name":"Youtube",
+   "vless":"dmxlc3M6Ly9hcHBAeW91dHViZWRvd25sb2FkLm1pbml0b29sLmNvbTo4NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJnNlY3VyaXR5PXRscyZob3N0PWFiLmVzaG9wMi5zaG9wJnBhdGg9JTJGYDQwdzN1ejImc25pPWFiLmVzaG9wMi5zaG9wI1NlcnZlcjI="
+  },
+  {
+   "name":"Social(Snapchat)",
+   "vless":"dmxlc3M6Ly9hcHBAYWIuZXNob3AyLnNob3A6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPXd3dy5zbmFwY2hhdC5jb20jU2VydmVyMw=="
   }
  ]
 }
