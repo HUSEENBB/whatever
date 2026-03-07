@@ -19,6 +19,13 @@
   {
    "name":"Social(كفووو)🇮🇶",
    "vless":"dmxlc3M6Ly9hcHBA Y2xvdWRmbGFyZS5zYy1jZG4ubmV0OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiZzZWN1cml0eT1ub25lI2hmd2VhZ29o"
+  },
+  {
+   "name":"Free🇮🇶🇸🇩",
+   "vless":"dmxlc3M6Ly9hYWFhMTExMS1iYmJiLTRjY2MtOGRkZC1lZWVlZmZmZjAwMDBAYWx0MTMueXQzLmdncGh0LmNvbTo0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3Mmc2VjdXJpdHk9dGxzJmhvc3Q9YWhtZWQtdmlwMS0yMDYxNTU1MTIyNzQuZXVyb3BlLXdlc3QxLnJ1bi5hcHAmcGF0aD0lMkZUZWxlZ3JhbSUyRiU0MEFNMl9EMyUyRiU0MEFITUFEMzIxNCZzbmk9YWx0MTMueXQzLmdncGh0LmNvbQ==",
+   "proxy_ip":"157.240.9.39",
+   "proxy_port":8080,
+   "payload":"CONNECT [host]:[port] HTTP/1.1[crlf]x-connected-to: 34.143.72.2[crlf]proxy-connection: keep-alive[crlf]connection: keep-alive[crlf]user-agent: FBAV/0.0[crlf]x-iorg-bsid: @AM2_D3[crlf][crlf]"
   }
  ]
 }
