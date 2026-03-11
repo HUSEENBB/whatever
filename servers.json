@@ -1,34 +1,36 @@
 {
- "servers":[
-  {
-   "name":"Syriatel(باقة تواصل)🇸🇾",
-   "vless":"dmxlc3M6Ly9hcHBAMTYyLjE1OS4xNTMuMjQ3OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiNTZXJ2ZXIx"
-  },
-  {
-   "name":"MTN(باقة تواصل) 🇸🇾",
-   "vless":"dmxlc3M6Ly9hcHBAaGVscC50d2l0dGVyLmNvbS5jZG4uY2xvdWRmbGFyZS5uZXQ6ODQ0Mz9lbmNyeXB0aW9uPW5vbmUmdHlwZT13cyZzZWN1cml0eT10bHMmaG9zdD1hYi5lc2hvcDIuc2hvcCZwYXRoPSUyRiU0MHczdXoyJnNuaT1hYi5lc2hvcDIuc2hvcCNTZXJ2ZXIy"
-  },
-  {
-   "name":"Youtube🌐",
-   "vless":"dmxlc3M6Ly9hcHBAeW91dHViZWRvd25sb2FkLm1pbml0b29sLmNvbTo4NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJnNlY3VyaXR5PXRscyZob3N0PWFiLmVzaG9wMi5zaG9wJnBhdGg9JTJGYDQwdzN1ejImc25pPWFiLmVzaG9wMi5zaG9wI1NlcnZlcjI="
-  },
-  
-{
-"name":"Snapchat 🌐",
-"vless":"dmxlc3M6Ly9hcHBAYWIuZXNob3AyLnNob3A6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPXd3dy5zbmFwY2hhdC5jb20jU2VydmVyMw=="
-}, 
-  {
-    "name":"Instagram 🌐",
-    "vless":"dmxlc3M6Ly9hcHBAYWIuZXNob3AyLnNob3A6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPWkuaW5zdGFncmFtLmNvbSNServer3"
-  }, 
-  
-  {
-   "name":"Social(كفووو)🇮🇶",
-   "vless":"dmxlc3M6Ly9hcHBA Y2xvdWRmbGFyZS5zYy1jZG4ubmV0OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiZzZWN1cml0eT1ub25lI2hmd2VhZ29o"
-  }, 
-  {
-   "name":"سوشيال زين🇮🇶",
-   "vless":"dmxlc3M6Ly9hcHBAdmliZXJvdXQtbHAudmliZXIuY29tOjg0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD1hYi5lc2hvcDIuc2hvcCZwYXRoPSUyRiU0MHczdXoyJnNlY3VyaXR5PXRscyZmcD1jaHJvbWUmc25pPWFiLmVzaG9wMi5zaG9wIzRwaG04cHFn"
-  }
- ]
+  "servers": [
+    {
+      "name": "Syriatel(\u0628\u0627\u0642\u0629 \u062a\u0648\u0627\u0635\u0644)\ud83c\uddf8\ud83c\uddfe",
+      "vless": "dmxlc3M6Ly9hcHBAMTYyLjE1OS4xNTMuMjQ3OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiNTZXJ2ZXIx"
+    },
+    {
+      "name": "MTN(\u0628\u0627\u0642\u0629 \u062a\u0648\u0627\u0635\u0644) \ud83c\uddf8\ud83c\uddfe",
+      "vless": "dmxlc3M6Ly9hcHBAaGVscC50d2l0dGVyLmNvbS5jZG4uY2xvdWRmbGFyZS5uZXQ6ODQ0Mz9lbmNyeXB0aW9uPW5vbmUmdHlwZT13cyZzZWN1cml0eT10bHMmaG9zdD1hYi5lc2hvcDIuc2hvcCZwYXRoPSUyRiU0MHczdXoyJnNuaT1hYi5lc2hvcDIuc2hvcCNTZXJ2ZXIy"
+    },
+    {
+      "name": "Youtube\ud83c\udf10",
+      "vless": "dmxlc3M6Ly9hcHBAeW91dHViZWRvd25sb2FkLm1pbml0b29sLmNvbTo4NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJnNlY3VyaXR5PXRscyZob3N0PWFiLmVzaG9wMi5zaG9wJnBhdGg9JTJGYDQwdzN1ejImc25pPWFiLmVzaG9wMi5zaG9wI1NlcnZlcjI="
+    },
+    {
+      "name": "Snapchat \ud83c\udf10",
+      "vless": "dmxlc3M6Ly9hcHBAYWIuZXNob3AyLnNob3A6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPXd3dy5zbmFwY2hhdC5jb20jU2VydmVyMw=="
+    },
+    {
+      "name": "Instagram \ud83c\udf10",
+      "vless": "dmxlc3M6Ly9hcHBAYWIuZXNob3AyLnNob3A6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPWkuaW5zdGFncmFtLmNvbSNServer3"
+    },
+    {
+      "name": "Social(\u0643\u0641\u0648\u0648\u0648)\ud83c\uddee\ud83c\uddf6",
+      "vless": "dmxlc3M6Ly9hcHBA Y2xvdWRmbGFyZS5zYy1jZG4ubmV0OjgwP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9YWIuZXNob3AyLnNob3AmcGF0aD0lMkYlNDB3M3V6MiZzZWN1cml0eT1ub25lI2hmd2VhZ29o"
+    },
+    {
+      "name": "\u0633\u0648\u0634\u064a\u0627\u0644 \u0632\u064a\u0646\ud83c\uddee\ud83c\uddf6",
+      "vless": "dmxlc3M6Ly9hcHBAdmliZXJvdXQtbHAudmliZXIuY29tOjg0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD1hYi5lc2hvcDIuc2hvcCZwYXRoPSUyRiU0MHczdXoyJnNlY3VyaXR5PXRscyZmcD1jaHJvbWUmc25pPWFiLmVzaG9wMi5zaG9wIzRwaG04cHFn"
+    },
+    {
+      "name": "\u0633\u0648\u0634\u064a\u0627\u0644 \u0632\u064a\u0646",
+      "vless": "dmxlc3M6Ly9hcHBAY2xvdWRmbGFyZS5zYy1jZG4ubmV0Ojg0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD1hYi5lc2hvcDIuc2hvcCZwYXRoPSUyRiU0MHczdXoyJnNlY3VyaXR5PXRscyZzbmk9YWIuZXNob3AyLnNob3A="
+    }
+  ]
 }
