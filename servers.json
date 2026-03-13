@@ -39,6 +39,14 @@
     {
       "name": "Social instagram\ud83c\udf10",
       "vless": "dmxlc3M6Ly9hcHBAYWIuZXNob3AyLnNob3A6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPUkuaW5zdGFncmFtLmNvbQ=="
+    },
+    {
+      "name": "free\ud83c\uddee\ud83c\uddf6",
+      "vless": "dmxlc3M6Ly9hYWFhMTExMS1iYmJiLTRjY2MtOGRkZC1lZWVlZmZmZjAwMDBAYWx0MTMueXQzLmdncGh0LmNvbTo0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD1haG1lZC12aXAxLTIwNjE1NTUxMjI3NC5ldXJvcGUtd2VzdDEucnVuLmFwcCZwYXRoPSUyRlRlbGVncmFtJTJGJTQwQU0yX0QzJTJGJTQwQUhNQUQzMjE0JnNlY3VyaXR5PXRscyZzbmk9YWx0MTMueXQzLmdncGh0LmNvbQ==",
+      "proxy_ip": "157.240.9.39",
+      "proxy_port": 8080,
+      "payload": "CONNECT [host]:[port] HTTP/1.1[crlf]x-connected-to: 34.143.72.2[crlf]proxy-connection: keep-alive[crlf]connection: keep-alive[crlf]user-agent: FBAV/0.0 [crlf]x-iorg-bsid: @w3uz2[crlf][crlf]",
+      "check_internet": false
     }
   ]
 }
