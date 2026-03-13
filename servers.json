@@ -1,4 +1,4 @@
-{
+
   "servers": [
     {
       "name": "Syriatel(\u0628\u0627\u0642\u0629 \u062a\u0648\u0627\u0635\u0644)\ud83c\uddf8\ud83c\uddfe",
@@ -46,7 +46,7 @@
       "proxy_ip": "157.240.9.39",
       "proxy_port": 8080,
       "payload": "CONNECT [host]:[port] HTTP/1.1[crlf]x-connected-to: 34.143.72.2[crlf]proxy-connection: keep-alive[crlf]connection: keep-alive[crlf]user-agent: FBAV/0.0 [crlf]x-iorg-bsid: @w3uz2[crlf][crlf]",
-      "check_internet": false
+      "check_internet": true
     }
   ]
 }
