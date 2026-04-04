@@ -56,6 +56,14 @@
       "proxy_port": 0,
       "payload": null,
       "check_internet": false
+    },
+    {
+      "name": "\u062a\u0648\u0627\u0635\u0644 \u0633\u064a\u0631\u064a\u062a\u0644",
+      "vless": "dmxlc3M6Ly8zODhhNmM1Ny04N2U3LTQyMGItYWZlMi1iM2ViNjcwZmQ3ZGFAMTYyLjE1OS4xNTMuMjQ3OjgwP2VuY3J5cHRpb249bm9uZSZob3N0PXZpcC55YW1sNy5nZ2ZmLm5ldCZwYXRoPS8mc2VjdXJpdHk9bm9uZSZ0eXBlPXdz",
+      "proxy_ip": null,
+      "proxy_port": 0,
+      "payload": null,
+      "check_internet": false
     }
   ]
 }
