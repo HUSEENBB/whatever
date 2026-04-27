@@ -8,6 +8,14 @@
       "proxy_port": 0,
       "payload": null,
       "check_internet": false
+    },
+    {
+      "name": "MTN \ud83c\uddf8\ud83c\uddfe",
+      "vless": "dmxlc3M6Ly9lODgzZGRkOC00MDExLTRmYWMtOTk3MS0xYWMzNjcxNDc1YjhAMTYyLjE1OS4xNDAuMjI5OjIwNTM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD1zaGRvd3MuZmVpZmFubGliLmZ1biZwYXRoPSUyRiUzRmVkJTNEMjU2MCUyNlRlbGVncmFtJUYwJTlGJTg3JUE4JUYwJTlGJTg3JUIzJTIwJTQwV2FuZ0NhaTImc2VjdXJpdHk9dGxzJnNuaT1zaGRvd3MuZmVpZmFubGliLmZ1bg==",
+      "proxy_ip": null,
+      "proxy_port": 0,
+      "payload": null,
+      "check_internet": false
     }
   ]
 }
