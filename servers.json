@@ -24,6 +24,14 @@
       "proxy_port": 0,
       "payload": null,
       "check_internet": false
+    },
+    {
+      "name": "Snapchat \ud83c\udf10",
+      "vless": "dmxlc3M6Ly9lODgzZGRkOC00MDExLTRmYWMtOTk3MS0xYWMzNjcxNDc1YjhAMTg4LjEzMi4xODMuNDA6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9Y29tLlNuYXBjaGF0LmNvbSZwYXRoPSUyRiUzRmVkJTNEMjU2MCUyNlRlbGVncmFtJUYwJTlGJTg3JUE4JUYwJTlGJTg3JUIzJTIwJTQwV2FuZ0NhaTImc2VjdXJpdHk9dGxzJnNuaT1jb20uU25hcGNoYXQuY29t",
+      "proxy_ip": null,
+      "proxy_port": 0,
+      "payload": null,
+      "check_internet": false
     }
   ]
 }
