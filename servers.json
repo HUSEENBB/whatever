@@ -2,44 +2,6 @@
   "min_version": 4,
   "servers1": [
     {
-      "name": "\u0633\u0648\u0634\u064a\u0627\u0644 \u0643\u0641\u0648 \ud83c\uddee\ud83c\uddf6",
-      "vless": "dmxlc3M6Ly9lODgzZGRkOC00MDExLTRmYWMtOTk3MS0xYWMzNjcxNDc1YjhAY2xvdWRmbGFyZS5zYy1jZG4ubmV0OjIwNTM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD1zaGRvd3MuZmVpZmFubGliLmZ1biZwYXRoPSUyRiUzRmVkJTNEMjU2MCUyNlRlbGVncmFtLi4uJnNlY3VyaXR5PXRscyZzbmk9c2hkb3dzLmZlaWZhbmxpYi5mdW4=",
-      "proxy_ip": null,
-      "proxy_port": 0,
-      "payload": null,
-      "check_internet": false
-    },
-    {
-      "name": "MTN \ud83c\uddf8\ud83c\uddfe",
-      "vless": "dmxlc3M6Ly82MjAyYjIzMC00MTdjLTRkOGUtYjYyNC0wZjcxYWZhOWM3NWRAMTYyLjE1OS4xNDAuMjI5Ojg0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD13d3cudWRlbXkuY29tLmpvc3MuamFrLmJpei5pZCZwYXRoPSUyRkZyZWUtVlBOLUNGLUdlby1Qcm9qZWN0JTJGSEslM0ZlZCUzRDI1NjAlMjZodHRwcyUzQSUyRiUyRnQubWUlMkZXYW5nQ2FpMiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVCMyZzZWN1cml0eT10bHMmc25pPXd3dy51ZGVteS5jb20uam9zcy5qYWsuYml6Lmlk",
-      "proxy_ip": null,
-      "proxy_port": 0,
-      "payload": null,
-      "check_internet": false
-    },
-    {
-      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
-      "vless": "dmxlc3M6Ly82MjAyYjIzMC00MTdjLTRkOGUtYjYyNC0wZjcxYWZhOWM3NWRAMTYyLjE1OS4xNTMuMjQ3Ojg0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD13d3cudWRlbXkuY29tLmpvc3MuamFrLmJpei5pZCZwYXRoPSUyRkZyZWUtVlBOLUNGLUdlby1Qcm9qZWN0JTJGSEslM0ZlZCUzRDI1NjAlMjZodHRwcyUzQSUyRiUyRnQubWUlMkZXYW5nQ2FpMiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVCMyZzZWN1cml0eT10bHMmc25pPXd3dy51ZGVteS5jb20uam9zcy5qYWsuYml6Lmlk",
-      "proxy_ip": null,
-      "proxy_port": 0,
-      "payload": null,
-      "check_internet": false
-    },
-    {
-      "name": "\u0643\u0641\u0648\u0648 \ud83c\uddee\ud83c\uddf6",
-      "vless": "dmxlc3M6Ly82MjAyYjIzMC00MTdjLTRkOGUtYjYyNC0wZjcxYWZhOWM3NWRAY2xvdWRmbGFyZS5zYy1jZG4ubmV0Ojg0NDM/ZW5jcnlwdGlvbj1ub25lJnR5cGU9d3MmaG9zdD13d3cudWRlbXkuY29tLmpvc3MuamFrLmJpei5pZCZwYXRoPSUyRkZyZWUtVlBOLUNGLUdlby1Qcm9qZWN0JTJGSEslM0ZlZCUzRDI1NjAlMjZodHRwcyUzQSUyRiUyRnQubWUlMkZXYW5nQ2FpMiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVCMyZzZWN1cml0eT10bHMmc25pPXd3dy51ZGVteS5jb20uam9zcy5qYWsuYml6Lmlk",
-      "proxy_ip": null,
-      "proxy_port": 0,
-      "payload": null,
-      "check_internet": false
-    },
-    {
-      "name": "Snapchat \ud83c\udf10",
-      "vless": "dmxlc3M6Ly9lYzM2YTA1NC00N2M0LTQzNWEtOTA3Ny0yOTViZTEyYmY4MzRAZGUtcmFjZS5jb25uZnVsbC5vcmc6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJmhvc3Q9d3d3LlNuYXBjaGF0LmNvbSZwYXRoPSUyRmNkbi1jZ2klMkZ3cyZzZWN1cml0eT10bHMmc25pPXd3dy5TbmFwY2hhdC5jb20=",
-      "proxy_ip": null,
-      "proxy_port": 0,
-      "payload": null,
-      "check_internet": false
-    }
+      
   ]
 }
