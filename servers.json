@@ -5,7 +5,7 @@
     {
       "name": "no",
       "vless": "vless://ec36a054-47c4-435a-9077-295be12bf834@de-race.connfull.org:443?encryption=none&flow=none&type=ws&host=www.Snapchat.com&headerType=none&path=%2Fcdn-cgi%2Fws&security=tls&sni=www.Snapchat.com#vless-ws-tls",
-      "check_internet": true
+      "check_internet": false
     }
   ]
 }
