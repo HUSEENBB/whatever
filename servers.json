@@ -1,7 +1,13 @@
 {
   "min_version": 4,
   "servers": [
- 
-
+    {
+      "name": "vless-ws-tls",
+      "vless": "dmxlc3M6Ly9lYzM2YTA1NC00N2M0LTQzNWEtOTA3Ny0yOTViZTEyYmY4MzRAZGUtcmFjZS5jb25uZnVsbC5vcmc6NDQzP2VuY3J5cHRpb249bm9uZSZ0eXBlPXdzJnBhdGg9JTJGY2RuLWNnaSUyRndzJnNlY3VyaXR5PXRscw==",
+      "proxy_ip": null,
+      "proxy_port": 0,
+      "payload": null,
+      "check_internet": false
+    }
   ]
 }
