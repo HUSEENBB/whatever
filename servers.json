@@ -4,9 +4,6 @@
     {
       "name": "no",
       "vless": "vless://ec36a054-47c4-435a-9077-295be12bf834@de-race.connfull.org:443?encryption=none&type=ws&host=www.Snapchat.com&path=%2Fcdn-cgi%2Fws&security=tls&sni=www.Snapchat.com",
-      "proxy_ip": null,
-      "proxy_port": 0,
-      "payload": null,
       "check_internet": false
     }
   ]
