@@ -5,6 +5,11 @@
       "name": "no",
       "vless": "vless://ec36a054-47c4-435a-9077-295be12bf834@de-race.connfull.org:443?encryption=none&type=ws&host=www.Snapchat.com&path=%2Fcdn-cgi%2Fws&security=tls&sni=www.Snapchat.com",
       "check_internet": false
+    },
+    {
+      "name": "hero",
+      "vless": "vless://d1a0af84-ed47-4380-b9da-593532842e49@nl-race.connfull.org:443?encryption=none&type=ws&host=www.Snapchat.com&path=%2Fws&security=tls&sni=www.Snapchat.com",
+      "check_internet": false
     }
   ]
 }
