@@ -5,6 +5,11 @@
       "name": "Snapchat \ud83c\udf10",
       "vless": "vless://d1a0af84-ed47-4380-b9da-593532842e49@nl-race.connfull.org:443?encryption=none&type=ws&host=www.Snapchat.com&path=%2Fws&security=tls&sni=www.Snapchat.com",
       "check_internet": false
+    },
+    {
+      "name": "MTM\ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://e883ddd8-4011-4fac-9971-1ac3671475b8@162.159.140.229:8443?encryption=none&type=ws&host=shdows.feifanlib.fun&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=shdows.feifanlib.fun",
+      "check_internet": false
     }
   ]
 }
