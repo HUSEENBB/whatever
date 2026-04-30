@@ -20,6 +20,11 @@
       "name": "m",
       "vless": "trojan://8r%3C%5B9%27l6hAO%238ZQi@95.182.98.251:8443/?type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&allowInsecure=1",
       "check_internet": false
+    },
+    {
+      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://46101b26-0f11-4af4-b3e8-0d4e53c76649@162.159.153.247:80?encryption=none&type=httpupgrade&host=abo.eshop2.shop&path=%2Frere-cantik&security=none",
+      "check_internet": false
     }
   ]
 }
