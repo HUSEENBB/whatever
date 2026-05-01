@@ -18,11 +18,6 @@
     },
     {
       "name": "\u0643\u0641\u0648\u0648\ud83c\uddee\ud83c\uddf6",
-      "vless": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@cloudflare.sc-cdn.net:2053?encryption=none&type=ws&host=Ciallo-eGB.PageS.dev&path=%2F%25252F&security=tls&sni=Ciallo-eGB.PageS.dev",
-      "check_internet": false
-    },
-    {
-      "name": "\u0643\u0641\u0648\u0648\ud83c\uddee\ud83c\uddf6",
       "vless": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@cloudflare.sc-cdn.net:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=%2F%20%40ProxyVPN11&security=none",
       "check_internet": false
     }
