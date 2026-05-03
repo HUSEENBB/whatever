@@ -40,6 +40,11 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe-VIP",
       "vless": "vless://%40w3uz2@162.159.140.229:2053?encryption=none&type=ws&host=abo.eshop2.shop&path=%2F%40w3uz2&security=tls&sni=abo.eshop2.shop",
       "check_internet": false
+    },
+    {
+      "name": "VIP-\u0643\u0641\u0648\u0648\ud83c\uddee\ud83c\uddf6",
+      "vless": "vless://%40w3uz2@cloudflare.sc-cdn.net:80?encryption=none&type=ws&host=abo.eshop2.shop&path=%2F%40w3uz2&security=none",
+      "check_internet": false
     }
   ]
 }
