@@ -35,6 +35,11 @@
       "name": "Syriatel \ud83c\uddf8\ud83c\uddfe-VIP",
       "vless": "vless://%40w3uz2@162.159.153.247:80?encryption=none&type=ws&host=abo.eshop2.shop&path=%2F%40w3uz2&security=none",
       "check_internet": false
+    },
+    {
+      "name": "MTN \ud83c\uddf8\ud83c\uddfe-VIP",
+      "vless": "vless://%40w3uz2@162.159.140.229:2053?encryption=none&type=ws&host=abo.eshop2.shop&path=%2F%40w3uz2&security=tls&sni=abo.eshop2.shop",
+      "check_internet": false
     }
   ]
 }
