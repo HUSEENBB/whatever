@@ -17,11 +17,6 @@
       "check_internet": false
     },
     {
-      "name": "MTN \ud83c\uddf8\ud83c\uddfe-VIP",
-      "vless": "vless://%40w3uz2@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=abo.eshop2.shop&path=%2F%40w3uz2&security=tls&sni=abo.eshop2.shop",
-      "check_internet": false
-    },
-    {
       "name": "pubg\ud83c\udf10",
       "vless": "vless://%40w3uz2@abo.eshop2.shop:443?encryption=none&type=tcp&security=tls&sni=www.pubgmobile.com",
       "check_internet": false
