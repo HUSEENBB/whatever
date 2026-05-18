@@ -50,6 +50,11 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe-UK\ud83c\uddec\ud83c\udde7",
       "vless": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy",
       "check_internet": false
+    },
+    {
+      "name": "bunq esim",
+      "vless": "vless://w3uz2@abo.eshop2.shop:443?encryption=none&type=tcp&security=tls&sni=kellyonyoutube.com%3Baerogardenyoutube.com%3B9xyoutube.com%3Bwww.alpha.facebook.com%3Bchat.whatsapp.com%3Bmobile.twitter.com%3Bwww.youtube.com%3Bwww.anghami.com%3Bwww.tiktok.com%3Bm.imo.im%3Bhelp.line.me%3Bwww.netflix.com%3Bmobile.netflix.com%3Bsupport.snapchat.com%3Bwww.instagram.com%3Bplus.anghami.com%3Bwww.tiktok.com%3Bwww.tiktok.in%3Bm.facebook.com%3BI.instagram.com%3Bcom.telegram.org%3Bchat.snapchat.com%3Bpre-sg.creatorhub.pubgmobile.com%3Bwww.pubgmobile.com%3Bdg.video.google.com%3Bupload.video.google.com%3Bpas.pubgesports.com%3Bpec.pubgesports.com%3Bma-fastly.twimg.com%3Bdocs.rsp.truphone.com%3Brsp.truphone.com%3Bservices.truphone.com%3Baccount.go.truphone.com%3Baccount.go.staging.truphone.com%3Btogether.bunq.com%3Bfb.me",
+      "check_internet": false
     }
   ]
 }
