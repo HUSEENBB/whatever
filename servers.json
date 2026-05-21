@@ -60,6 +60,14 @@
       "name": "\u0633\u0648\u0627+\u062c\u0648\u064a \ud83c\uddf8\ud83c\udde6",
       "vless": "vless://2af19800-d817-483d-9e46-e2a5646957b8@contact.katze.cam:443?encryption=none&type=xhttp&host=mea.cxblackberry.com&path=%2Fo99qw17ixN9WWvj8ZS3oZ0fTMOsYP0o7vbu8YAsQdg7gGSjfJibAiPRkujZ3CUaay3I8Zt7P0zxjuJm82K8TWBTuPe%3Fed%3D2048&security=tls&sni=mea.cxblackberry.com",
       "check_internet": false
+    },
+    {
+      "name": "free\ud83c\udf10",
+      "vless": "trojan://3OV1oUvm2h@191.96.94.27:80?type=tcp&security=none",
+      "check_internet": false,
+      "proxy_ip": "",
+      "proxy_port": 0,
+      "payload": ""
     }
   ]
 }
