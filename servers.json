@@ -55,6 +55,11 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe-bg\ud83c\udde7\ud83c\uddec-Cloudflare",
       "vless": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in",
       "check_internet": false
+    },
+    {
+      "name": "\u0633\u0648\u0627+\u062c\u0648\u064a \ud83c\uddf8\ud83c\udde6",
+      "vless": "vless://2af19800-d817-483d-9e46-e2a5646957b8@contact.katze.cam:443?encryption=none&type=xhttp&host=mea.cxblackberry.com&path=%2Fo99qw17ixN9WWvj8ZS3oZ0fTMOsYP0o7vbu8YAsQdg7gGSjfJibAiPRkujZ3CUaay3I8Zt7P0zxjuJm82K8TWBTuPe%3Fed%3D2048&security=tls&sni=mea.cxblackberry.com",
+      "check_internet": false
     }
   ]
 }
