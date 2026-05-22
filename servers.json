@@ -15,6 +15,11 @@
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
       "vless": "trojan://humanity@crm-lp.viber.com:443?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com",
       "check_internet": false
+    },
+    {
+      "name": "MTN \ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in",
+      "check_internet": false
     }
   ]
 }
