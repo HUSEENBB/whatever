@@ -7,11 +7,6 @@
       "check_internet": false
     },
     {
-      "name": "VIP-\u0643\u0641\u0648\u0648\ud83c\uddee\ud83c\uddf6",
-      "vless": "vless://%40w3uz2@cloudflare.sc-cdn.net:80?encryption=none&type=ws&host=abo.eshop2.shop&path=%2F%40w3uz2&security=none",
-      "check_internet": false
-    },
-    {
       "name": "pubg\ud83c\udf10",
       "vless": "vless://%40w3uz2@abo.eshop2.shop:443?encryption=none&type=tcp&security=tls&sni=www.pubgmobile.com",
       "check_internet": false
