@@ -2,11 +2,6 @@
   "min_version": 4,
   "servers": [
     {
-      "name": "Snapchat\ud83c\udf10-VIP",
-      "vless": "vless://%40w3uz2@abo.eshop2.shop:443?encryption=none&type=tcp&security=tls&sni=www.Snapchat.com",
-      "check_internet": false
-    },
-    {
       "name": "MTN \ud83c\uddf8\ud83c\uddfe-VIP",
       "vless": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy",
       "check_internet": false
