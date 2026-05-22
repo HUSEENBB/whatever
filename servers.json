@@ -13,7 +13,7 @@
     },
     {
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
-      "vless": "vless://humanity@crm-lp.viber.com:443?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com",
+      "vless": "trojan://humanity@crm-lp.viber.com:443?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com",
       "check_internet": false
     }
   ]
