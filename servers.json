@@ -20,6 +20,11 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://89b3cbba-e6ac-485a-9481-976a0415eab9@help.twitter.com.cdn.cloudflare.net:2083?encryption=none&type=ws&host=cIAllO-EGB.pAGES.dev&path=%2F%25252F&security=tls&sni=cIAllO-EGB.pAGES.dev",
       "check_internet": false
+    },
+    {
+      "name": "Social(zain-Kafoo-other) \ud83c\udf10",
+      "vless": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@cloudflare.sc-cdn.net:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=%2F%20%40ProxyVPN11&security=none",
+      "check_internet": false
     }
   ]
 }
