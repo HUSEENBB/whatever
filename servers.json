@@ -15,11 +15,6 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in",
       "check_internet": false
-    },
-    {
-      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
-      "vless": "vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@162.159.153.247:80?encryption=none&type=ws&host=nl-90w-c.southnetworks.cloud&path=%2FgetWorkerUpdates&security=none",
-      "check_internet": false
     }
   ]
 }
