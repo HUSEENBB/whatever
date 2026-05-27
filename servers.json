@@ -12,11 +12,6 @@
       "check_internet": false
     },
     {
-      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
-      "vless": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.153.247:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=%2F%20%40ProxyVPN11&security=none",
-      "check_internet": false
-    },
-    {
       "name": "Snapchat \ud83c\udf10",
       "vless": "vmess://eyJhZGQiOiJkZS5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3d3cuU25hcGNoYXQuY29tIiwiaWQiOiJmMjEzMjBiMi05MzgzLTQ1ZDEtOTMzNC1jNTdhOGI2MWQ4NjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjFcL2Nvbm5lY3QiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuU25hcGNoYXQuY29tIiwidHlwZSI6Im5vbmUiLCJmcCI6ImNocm9tZSIsInYiOiIyIn0=",
       "check_internet": false
