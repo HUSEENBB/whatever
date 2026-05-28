@@ -15,6 +15,11 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://ef4911ad-e3fb-4fad-9e20-f25d30fad7b7@help.twitter.com.cdn.cloudflare.net:2096?encryption=none&type=ws&host=free.sahanwickramasinghevip.shop&path=%2F&security=tls&sni=free.sahanwickramasinghevip.shop",
       "check_internet": false
+    },
+    {
+      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://ef4911ad-e3fb-4fad-9e20-f25d30fad7b7@162.159.153.247:2096?encryption=none&type=ws&host=free.sahanwickramasinghevip.shop&path=%2F&security=tls&sni=free.sahanwickramasinghevip.shop",
+      "check_internet": false
     }
   ]
 }
