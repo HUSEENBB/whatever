@@ -10,6 +10,11 @@
       "name": "Telegram \ud83c\udf10",
       "vless": "vless://eyJhZGQiOiJkZS5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3ZWIudGVsZWdyYW0ub3JnIiwiaWQiOiJmMjEzMjBiMi05MzgzLTQ1ZDEtOTMzNC1jNTdhOGI2MWQ4NjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjFcL2Nvbm5lY3QiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuU25hcGNoYXQuY29tIiwidHlwZSI6Im5vbmUiLCJmcCI6ImNocm9tZSIsInYiOiIyIn0=",
       "check_internet": false
+    },
+    {
+      "name": "MTN \ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://ef4911ad-e3fb-4fad-9e20-f25d30fad7b7@help.twitter.com.cdn.cloudflare.net:2096?encryption=none&type=ws&host=free.sahanwickramasinghevip.shop&path=%2F&security=tls&sni=free.sahanwickramasinghevip.shop",
+      "check_internet": false
     }
   ]
 }
