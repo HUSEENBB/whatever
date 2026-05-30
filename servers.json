@@ -5,11 +5,6 @@
       "name": "Telegram \ud83c\udf10",
       "vless": "vmess://eyJhZGQiOiJkZS5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3ZWIudGVsZWdyYW0ub3JnIiwiaWQiOiJmMjEzMjBiMi05MzgzLTQ1ZDEtOTMzNC1jNTdhOGI2MWQ4NjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2FwaVwvdjFcL2Nvbm5lY3QiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuU25hcGNoYXQuY29tIiwidHlwZSI6Im5vbmUiLCJmcCI6ImNocm9tZSIsInYiOiIyIn0=",
       "check_internet": false
-    },
-    {
-      "name": "Social(zain-Kafoo-other) \ud83c\udf10",
-      "vless": "vless://84205690-b389-4689-86ad-95cd169ba862@cloudflare.sc-cdn.net:80?encryption=none&type=ws&host=free.sahanwickramasinghevip.shop&path=%2F&security=none",
-      "check_internet": false
     }
   ]
 }
