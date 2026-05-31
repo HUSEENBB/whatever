@@ -15,6 +15,11 @@
       "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.159.153.247:80?encryption=none&type=ws&host=de.vpnbase.net&path=%2Fhttp&security=none",
       "check_internet": false
+    },
+    {
+      "name": "Social(zain-Kafoo-other) \ud83c\udf10",
+      "vless": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@cloudflare.sc-cdn.net:80?encryption=none&type=ws&host=de.vpnbase.net&path=%2Fhttp&security=none",
+      "check_internet": false
     }
   ]
 }
