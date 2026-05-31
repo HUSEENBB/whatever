@@ -1,4 +1,10 @@
 {
   "min_version": 4,
-  "servers": []
+  "servers": [
+    {
+      "name": "Snapchat \ud83c\udf10",
+      "vless": "vless://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?type=tcp&security=tls&sni=www.Snapchat.com",
+      "check_internet": false
+    }
+  ]
 }
