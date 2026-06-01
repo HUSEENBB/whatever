@@ -20,6 +20,11 @@
       "name": "Snapchat \ud83c\udf10",
       "vless": "vless://eyJhZGQiOiJzdXBlci50Zy1leGh4eC5vbmxpbmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3d3cuU25hcGNoYXQuY29tIiwiaWQiOiI3OWM2MzhlNy1kNjgzLTQyZWQtOGJkZC0zYTZjOTdlZWNlMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInRscyI6InRscyIsInNuaSI6Ind3dy5TbmFwY2hhdC5jb20iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
       "check_internet": false
+    },
+    {
+      "name": "Telegram \ud83c\udf10",
+      "vless": "vless://eyJhZGQiOiJzdXBlci50Zy1leGh4eC5vbmxpbmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3ZWIudGVsZWdyYW0ub3JnIiwiaWQiOiI3OWM2MzhlNy1kNjgzLTQyZWQtOGJkZC0zYTZjOTdlZWNlMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInRscyI6InRscyIsInNuaSI6IndlYi50ZWxlZ3JhbS5vcmciLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "check_internet": false
     }
   ]
 }
