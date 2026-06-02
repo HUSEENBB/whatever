@@ -2,11 +2,6 @@
   "min_version": 4,
   "servers": [
     {
-      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
-      "vless": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.159.153.247:80?encryption=none&type=ws&host=de.vpnbase.net&path=%2Fhttp&security=none",
-      "check_internet": false
-    },
-    {
       "name": "Snapchat \ud83c\udf10",
       "vless": "vless://287803ad-fd3b-480c-8b04-8dcc83a47c01@iraqi.iiraq.shop:443?encryption=none&type=ws&host=www.snapchat.com&path=%2Fhttps%3A%2F%2Ft.me%2FFahad1975A&security=tls&sni=www.snapchat.com",
       "check_internet": false
