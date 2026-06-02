@@ -12,11 +12,6 @@
       "check_internet": false
     },
     {
-      "name": "Telegram \ud83c\udf10",
-      "vless": "vmess://eyJhZGQiOiJzdXBlci50Zy1leGh4eC5vbmxpbmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsImhvc3QiOiJ3ZWIudGVsZWdyYW0ub3JnIiwiaWQiOiI3OWM2MzhlNy1kNjgzLTQyZWQtOGJkZC0zYTZjOTdlZWNlMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInRscyI6InRscyIsInNuaSI6IndlYi50ZWxlZ3JhbS5vcmciLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
-      "check_internet": false
-    },
-    {
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
       "vless": "vmess://eyJhZGQiOiIxNzIuNjcuMTY3LjE3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwiaG9zdCI6InN1cGVyLnRnLWV4aHh4Lm9ubGluZSIsImlkIjoiNzljNjM4ZTctZDY4My00MmVkLThiZGQtM2E2Yzk3ZWVjZTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdXBlci50Zy1leGh4eC5vbmxpbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
       "check_internet": false
