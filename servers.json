@@ -5,11 +5,6 @@
       "name": "Telegram \ud83c\udf10",
       "vless": "vless://287803ad-fd3b-480c-8b04-8dcc83a47c01@iraqi.iiraq.shop:443?encryption=none&type=ws&host=web.telegram.org&path=%2Fhttps%3A%2F%2Ft.me%2FFahad1975A&security=tls&sni=web.telegram.org",
       "check_internet": false
-    },
-    {
-      "name": "MTN \ud83c\uddf8\ud83c\uddfe",
-      "vless": "vless://6aa6ce59-7f9f-411a-8bc7-9422034b2fe5@help.twitter.com.cdn.cloudflare.net:2096?encryption=none&type=ws&host=shadownetxfree.zorox.store&path=%2F&security=tls&sni=shadownetxfree.zorox.store",
-      "check_internet": false
     }
   ]
 }
