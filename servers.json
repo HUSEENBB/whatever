@@ -10,11 +10,6 @@
       "name": "MTN \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://6aa6ce59-7f9f-411a-8bc7-9422034b2fe5@help.twitter.com.cdn.cloudflare.net:2096?encryption=none&type=ws&host=shadownetxfree.zorox.store&path=%2F&security=tls&sni=shadownetxfree.zorox.store",
       "check_internet": false
-    },
-    {
-      "name": "Social(zain-Kafoo-other) \ud83c\udf10",
-      "vless": "vless://796efd33-e2c8-44bb-bb8b-937c071fdbab@172.67.167.170:443?encryption=none&type=ws&host=sg1.niekotin.de&path=%2Fvless&security=tls&sni=sg1.niekotin.de",
-      "check_internet": false
     }
   ]
 }
