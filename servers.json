@@ -3,11 +3,6 @@
   "servers": [
     {
       "name": "Snapchat \ud83c\udf10",
-      "vless": "vless://%40w3uz2@hero-vip.online:443?encryption=none&type=tcp&security=tls&alpn=h2%2Chttp%2F1.1",
-      "check_internet": false
-    },
-    {
-      "name": "Snapchat \ud83c\udf10",
       "vless": "vless://%40w3uz2@hero-vip.online:443?encryption=none&type=tcp&security=tls&sni=www.Snapchat.com",
       "check_internet": false
     }
