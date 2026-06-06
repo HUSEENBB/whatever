@@ -2,11 +2,6 @@
   "min_version": 4,
   "servers": [
     {
-      "name": "Snapchat \ud83c\udf10",
-      "vless": "vless://287803ad-fd3b-480c-8b04-8dcc83a47c01@iraqi.iiraq.shop:443?encryption=none&type=ws&host=www.snapchat.com&path=%2Fhttps%3A%2F%2Ft.me%2FFahad1975A&security=tls&sni=www.snapchat.com",
-      "check_internet": false
-    },
-    {
       "name": "Telegram \ud83c\udf10",
       "vless": "vless://287803ad-fd3b-480c-8b04-8dcc83a47c01@iraqi.iiraq.shop:443?encryption=none&type=ws&host=web.telegram.org&path=%2Fhttps%3A%2F%2Ft.me%2FFahad1975A&security=tls&sni=web.telegram.org",
       "check_internet": false
