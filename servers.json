@@ -1,10 +1,4 @@
 {
   "min_version": 4,
-  "servers": [
-    {
-      "name": "Telegram \ud83c\udf10",
-      "vless": "vless://%40w3uz2@hero-vip.online:443?encryption=none&type=tcp&security=tls&sni=web.telegram.org",
-      "check_internet": false
-    }
-  ]
+  "servers": []
 }
