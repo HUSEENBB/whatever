@@ -25,6 +25,11 @@
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
       "vless": "vless://%40w3uz2@Cloudflare.sc-cdn.net:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
       "check_internet": false
+    },
+    {
+      "name": "Social(zain-Kafoo-other) \ud83c\udf10",
+      "vless": "vless://6f3dfd10-9039-44a7-9221-27e709f0e0b1@104.18.32.177:443?encryption=none&type=ws&host=z-exhxx78.exhxx.com&path=%2F&security=tls&sni=z-exhxx78.exhxx.com",
+      "check_internet": false
     }
   ]
 }
