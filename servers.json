@@ -10,6 +10,11 @@
       "name": "Telegram \ud83c\udf10",
       "vless": "vless://%40w3uz2@abd.azzam.store:443?encryption=none&type=tcp&security=tls&sni=web.telegram.org",
       "check_internet": false
+    },
+    {
+      "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://%40w3uz2@162.159.153.247:80?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=none",
+      "check_internet": false
     }
   ]
 }
