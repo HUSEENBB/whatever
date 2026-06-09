@@ -38,7 +38,7 @@
     },
     {
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
-      "vless": "vless://20556163-6d4b-4f6d-95c5-6ce824216fd6@104.18.32.177:443?encryption=none&type=ws&host=super.tg-exhxx.online&path=%2F&security=tls&sni=super.tg-exhxx.online",
+      "vless": "vmess://20556163-6d4b-4f6d-95c5-6ce824216fd6@104.18.32.177:443?encryption=none&type=ws&host=super.tg-exhxx.online&path=%2F&security=tls&sni=super.tg-exhxx.online",
       "check_internet": false
     }
   ]
