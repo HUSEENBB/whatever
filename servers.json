@@ -17,11 +17,6 @@
       "check_internet": false
     },
     {
-      "name": "\u0631\u0641\u0639 \u0631\u0627\u0648\u062a\u0631 \u0627\u0648\u0631\u0646\u062c\ud83c\uddea\ud83c\uddec",
-      "vless": "vless://%40w3uz2@abd.azzam.store:8443?encryption=none&type=ws&host=nagwa.com&path=%2F%40w3uz2&security=tls&sni=nagwa.com",
-      "check_internet": false
-    },
-    {
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
       "vless": "vless://%40w3uz2@104.18.32.177:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
       "check_internet": false
