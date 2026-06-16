@@ -15,6 +15,11 @@
       "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://997981a8-9040-431f-9e6e-%40w3uz2@162.159.153.247:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
       "check_internet": false
+    },
+    {
+      "name": "MTN \ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://997981a8-9040-431f-9e6e-%40w3uz2@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
+      "check_internet": false
     }
   ]
 }
