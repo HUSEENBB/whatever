@@ -25,6 +25,11 @@
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
       "vless": "vless://997981a8-9040-431f-9e6e-%40w3uz2@104.18.32.177:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
       "check_internet": false
+    },
+    {
+      "name": "1",
+      "vless": "vless://997981a8-9040-431f-9e6e-%40w3uz2@104.18.32.177:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
+      "check_internet": false
     }
   ]
 }
