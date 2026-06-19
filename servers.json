@@ -25,11 +25,6 @@
       "name": "Social(zain-Kafoo-other) \ud83c\udf10",
       "vless": "vless://997981a8-9040-431f-9e6e-%40w3uz2@104.18.32.177:8443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
       "check_internet": false
-    },
-    {
-      "name": "2",
-      "vless": "trojan://SoftNetConnect@83.228.230.226:42549?security=tls&insecure=1&type=tcp&allowInsecure=1&sni=www.speedtest.net",
-      "check_internet": false
     }
   ]
 }
