@@ -25,6 +25,11 @@
       "name": "\u0645\u062c\u0627\u0646\u064a \u0633\u0648\u0627  \u062c\u0648\u064a \u0628\u0627\u0642\u0629 60 \u0645\u0648\u0628\u0627\u064a\u0644\u064a",
       "vless": "vless://997981a8-9040-431f-9e6e-@w3uz2@abd.azzam.store:8443?encryption=none&type=ws&host=all.sultanmuhamad.xyz&path=%252F%2540w3uz2&security=tls&sni=all.sultanmuhamad.xyz",
       "check_internet": false
+    },
+    {
+      "name": "Social",
+      "vless": "vless://41b83fea-38dd-41b2-a6d6-%40w3uz2@viberout-lp.viber.com:443?encryption=none&type=ws&host=abd.azzam.store&path=%2F%40w3uz2&security=tls&sni=abd.azzam.store",
+      "check_internet": false
     }
   ]
 }
