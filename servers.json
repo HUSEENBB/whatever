@@ -5,11 +5,6 @@
       "name": "oodi telegrame",
       "vless": "vless://b7f164d6-aa70-47ac-baf6-70484f008a4b@telegram-waledpro.site:443?encryption=none&type=ws&host=web.telegram.org&path=%2Fvless-ws&security=tls&sni=web.telegram.org",
       "check_internet": false
-    },
-    {
-      "name": "PUBG Mobile",
-      "vless": "vless://b7f164d6-aa70-47ac-baf6-70484f008a4b@telegram-waledpro.site:443?encryption=none&type=ws&host=www.pubgmobile.com&path=%2Fvless-ws&security=tls&sni=www.pubgmobile.com",
-      "check_internet": false
     }
   ]
 }
