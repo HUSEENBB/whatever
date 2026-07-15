@@ -1,10 +1,4 @@
 {
   "min_version": 4,
-  "servers": [
-    {
-      "name": "oodi telegrame",
-      "vless": "vless://b7f164d6-aa70-47ac-baf6-70484f008a4b@telegram-waledpro.site:443?encryption=none&type=ws&host=web.telegram.org&path=%2Fvless-ws&security=tls&sni=web.telegram.org",
-      "check_internet": false
-    }
-  ]
+  "servers": []
 }
