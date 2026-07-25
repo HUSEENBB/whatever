@@ -15,6 +15,11 @@
       "name": "Syriatel",
       "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@162.159.153.247:80?encryption=none&type=ws&host=hahaca.azzam.store&path=%2Fvlessws",
       "check_internet": false
+    },
+    {
+      "name": "MTN\ud83c\uddf8\ud83c\uddfe",
+      "vless": "vless://a4c41187-16e4-474b-81c7-%40w3uz2@heroapp.azzam.store:8443?type=ws&encryption=none&path=%2F%40w3uz2&host=&security=tls&alpn=",
+      "check_internet": false
     }
   ]
 }
