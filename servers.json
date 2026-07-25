@@ -15,11 +15,6 @@
       "name": "Syriatel",
       "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@162.159.153.247:80?encryption=none&type=ws&host=hahaca.azzam.store&path=%2Fvlessws",
       "check_internet": false
-    },
-    {
-      "name": "\ud83c\uddea\ud83c\uddec",
-      "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@162.159.153.247:80?encryption=none&type=ws&host=hahaca.azzam.store&path=%2Fvlessws",
-      "check_internet": false
     }
   ]
 }
