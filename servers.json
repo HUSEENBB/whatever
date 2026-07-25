@@ -2,17 +2,17 @@
   "min_version": 4,
   "servers": [
     {
-      "name": "Telegram",
+      "name": "Telegram🌐",
       "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@hahaca.azzam.store:443?encryption=none&type=ws&host=web.telegram.org&path=%2Fvlessws&security=tls&sni=web.telegram.org",
       "check_internet": false
     },
     {
-      "name": "pubg",
+      "name": "pubg🌐",
       "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@hahaca.azzam.store:443?encryption=none&type=ws&host=www.pubgmobile.com&path=%2Fvlessws&security=tls&sni=www.pubgmobile.com",
       "check_internet": false
     },
     {
-      "name": "Syriatel",
+      "name": "Syriatel🇸🇾",
       "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@162.159.153.247:80?encryption=none&type=ws&host=hahaca.azzam.store&path=%2Fvlessws",
       "check_internet": false
     },
