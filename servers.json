@@ -20,11 +20,6 @@
       "name": "MTN\ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://a4c41187-16e4-474b-81c7-%40w3uz2@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=heroapp.azzam.store&path=%2F%40w3uz2&security=tls&sni=heroapp.azzam.store",
       "check_internet": false
-    },
-    {
-      "name": "\u064a\u0648\u062a\u064a\u0648\u0628 \ud83c\udde9\ud83c\uddff",
-      "vless": "vless://aaaa1111-bbbb-4ccc-8ddd-eeeeffff0000@youtube.com:443?encryption=none&type=ws&host=ahmed-vip1-727138715814.us-central1.run.app&path=%2FTelegram%2F%40AM2_D3%2F%40AHMAD3214&security=tls&sni=youtube.com",
-      "check_internet": false
     }
   ]
 }
