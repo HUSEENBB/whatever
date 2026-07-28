@@ -2,11 +2,6 @@
   "min_version": 4,
   "servers": [
     {
-      "name": "Telegram\ud83c\udf10",
-      "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@hahaca.azzam.store:443?encryption=none&type=ws&host=web.telegram.org&path=%2Fvlessws&security=tls&sni=web.telegram.org",
-      "check_internet": false
-    },
-    {
       "name": "Syriatel\ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://d3e67bc9-e7e8-4450-a8b3-528ccc26a417@162.159.153.247:80?encryption=none&type=ws&host=hahaca.azzam.store&path=%2Fvlessws",
       "check_internet": false
