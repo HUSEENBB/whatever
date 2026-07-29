@@ -12,11 +12,6 @@
       "check_internet": false
     },
     {
-      "name": "\u064a\u0648\u062a\u064a\u0648\u0628 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \ud83c\udde9\ud83c\uddff \ud83c\udde8\ud83c\udde6\u2642\ufe0f",
-      "vless": "vless://d3b89b4e-86b2-4d26-9f79-45e3ea3b80b2@google.com:443?host=vless-core-836430474643.us-central1.run.app&path=%2Ftechzone-api&sni=youtube.com&insecure=1&encryption=none&security=tls&allowInsecure=1&type=ws",
-      "check_internet": false
-    },
-    {
       "name": "\u0627\u0648\u062f\u064a \u0628\u0627\u0642\u0647 \u0628\u0648\u0628\u062c\u064a \ud83c\uddee\ud83c\uddf6\ud83d\udd25\ud83d\udd25",
       "vless": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?host=www.pubgmobile.com&path=%2Fvless%2F&insecure=1&encryption=none&security=none&allowInsecure=1&type=ws",
       "check_internet": false
