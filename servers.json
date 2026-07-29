@@ -17,11 +17,6 @@
       "check_internet": false
     },
     {
-      "name": "\u064a\u0648\u062a\u064a\u0648\u0628 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \ud83c\udde9\ud83c\uddff",
-      "vless": "trojan://ooredoo-algeria@khaledsurfing-404.duckdns.org:443?security=tls&sni=youtube.com&type=ws&host=qwiklabs-gcp-03-7f11b1e7e6a6.as.r.appspot.com&path=%2Fkhaledsurfing&allowInsecure=1",
-      "check_internet": false
-    },
-    {
       "name": "\u064a\u0648\u062a\u064a\u0648\u0628 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \ud83c\udde9\ud83c\uddff\u2705\ud83c\uddeb\ud83c\uddf7",
       "vless": "vless://550e8400-e29b-41d4-a716-446655440000@youtube.com:443?encryption=none&security=tls&type=ws&host=abdo-info-vip-537431637789.europe-west1.run.app&path=%2FTelegram%2F%40abdoinfo&sni=youtube.com",
       "check_internet": false
