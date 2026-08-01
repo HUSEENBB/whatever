@@ -1,4 +1,10 @@
 {
   "min_version": 4,
-  "servers": []
+  "servers": [
+    {
+      "name": "\u0633\u0648\u0634\u064a\u0644 \u0631\u064a\u062f \u0628\u0648\u0628\u062c\u064a \ud83c\uddeb\ud83c\uddf7\ud83d\udd25",
+      "vless": "vless://46f3a9f7-6f2f-485a-a78d-a4eefe80ea11@136.175.82.99:80?type=ws&encryption=none&path=%2Fon-Telegram%2F%40eSimIraq&host=www.pubgmobile.com&security=none",
+      "check_internet": false
+    }
+  ]
 }
