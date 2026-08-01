@@ -20,6 +20,11 @@
       "name": "MTM\ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://7babab2d-0095-483c-b154-%40w3uz2@help.twitter.com.cdn.cloudflare.net:8443?encryption=none&type=ws&host=heroapp.azzam.store&path=%2F%40w3uz2&security=tls&sni=heroapp.azzam.store",
       "check_internet": false
+    },
+    {
+      "name": "\u064a\u0648\u062a\u064a\u0648\u0628 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \ud83c\uddeb\ud83c\uddf76H",
+      "vless": "vless://98f882da-6028-4a73-acb4-789043657fa1@googlevideo.com:443?security=tls&allowInsecure=1&type=ws&path=/rahimdx&host=rahimo-dx-450663863392.europe-west10.run.app&sni=YouTube.com",
+      "check_internet": false
     }
   ]
 }
