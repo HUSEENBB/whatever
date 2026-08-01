@@ -1,0 +1,6 @@
+{
+  "latest_version_code": 1,
+  "force_update": true,
+  "update_url": "https://github.com/HUSEENBB/whatever/raw/refs/heads/main/app-debug.apk",
+  "update_message": "📢 يوجد تحديث جديد للتطبيق.\nيرجى الضغط على 'تحديث' لتحميل الإصدار الجديد."
+}
