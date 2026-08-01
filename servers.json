@@ -12,11 +12,6 @@
       "check_internet": false
     },
     {
-      "name": "\u0639\u0631\u0648\u0636 \u064a\u0648\u062a\u064a\u0648\u0628 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 \ud83d\udd25\ud83c\uddeb\ud83c\uddf7",
-      "vless": "vless://aaaa1111-bbbb-4ccc-8ddd-eeeeffff0000@google.com:443?security=tls&allowInsecure=1&type=ws&path=/Telegram/@AM2_D3/@AHMAD3214&host=abde-vip1-660219510753.europe-west4.run.app&sni=youtube.com",
-      "check_internet": false
-    },
-    {
       "name": "Syriatel \ud83c\uddf8\ud83c\uddfe",
       "vless": "vless://7babab2d-0095-483c-b154-%40w3uz2@162.159.153.247:8443?encryption=none&type=ws&host=heroapp.azzam.store&path=%2F%40w3uz2&security=tls&sni=heroapp.azzam.store",
       "check_internet": false
