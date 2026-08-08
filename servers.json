@@ -20,11 +20,6 @@
       "name": "\u0633\u0648\u0634\u064a\u0627\u0644 \u0632\u064a\u0646 \ud83c\uddee\ud83c\uddf6(\u0628\u0639\u0636 \u0645\u0646\u0627\u0637\u0642).",
       "vless": "vless://7babab2d-0095-483c-b154-%40w3uz2@crm-lp.viber.com:8443?encryption=none&type=ws&host=heroapp.azzam.store&path=%2F%40w3uz2&security=tls&sni=heroapp.azzam.store",
       "check_internet": false
-    },
-    {
-      "name": "\u0627\u0648\u062f\u064a \u0645\u062c\u0627\u0646\u064a \ud83c\uddee\ud83c\uddf6",
-      "vless": "vless://ac74e8cc-c0f2-4625-9b4d-f8ba5e91d66c@app.rudderstack.com:443?encryption=none&type=ws&host=d3cdy6viklzpq1.cloudfront.net&path=%2Fvless&security=tls&sni=d3cdy6viklzpq1.cloudfront.net",
-      "check_internet": false
     }
   ]
 }
